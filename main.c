@@ -36,7 +36,7 @@ int main()
         case 5:
             salvar_hotel(quartos);
             break;
-            case 6:
+        case 6:
             carregar_hotel(quartos);
             break;
         case 7:
